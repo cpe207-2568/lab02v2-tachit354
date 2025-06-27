@@ -1,0 +1,52 @@
+.ThenKhung {
+    color: midnightblue;
+    text-align: center;
+    font-family: "UoqMunThenKhung", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.fonteng {
+  font-family: "WDXL Lubrifont SC", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+
+
+p {
+    color: rgb(216, 58, 114);
+    text-align: center;
+    font-size: 100%;
+
+}
+
+
+h3 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 150%;
+    
+}
+
+p1 {
+    color: rgb(75, 1, 149);
+    font-size: 80%;
+}
+
+.skill-board {
+    border: solid blue;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+    background-color: lightgoldenrodyellow;
+    
+}
+
+
+body {
+    background-image:url(../img/red-white-candy-cane-pattern-beige-4019.jpg);
+    margin: auto;
+}
